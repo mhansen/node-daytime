@@ -1,0 +1,3 @@
+An RFC 867 compliant DAYTIME server, written in node.js just for fun.
+
+See: http://www.faqs.org/rfcs/rfc867.html
